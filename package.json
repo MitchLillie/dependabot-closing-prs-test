@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MitchLillie/dependabot-closing-prs-test#readme",
   "dependencies": {
-    "@shopify/app-bridge": "^2.1.0",
+    "@shopify/app-bridge": "^3.7.4",
     "@shopify/app-bridge-utils": "^3.4.3"
   }
 }
